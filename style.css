@@ -18,9 +18,9 @@ header {
 }
 img{
     border: 2px solid white;
-    border-radius: 100px;
+    border-radius: 150px;
     padding: 0px;
-    margin-left: 100px;
+    margin-left:0px;
     margin-bottom:10px;
 }
 p{
